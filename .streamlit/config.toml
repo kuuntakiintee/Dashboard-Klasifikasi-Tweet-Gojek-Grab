@@ -1,0 +1,14 @@
+[theme]
+
+# buttons, sliders.
+primaryColor="#1DB954" 
+
+#content area
+backgroundColor="#121212" 
+
+#sidebar, expanders, text input background
+secondaryBackgroundColor="#1F1F1F" 
+
+textColor="#FFFFFF" 
+
+font="sans serif"
