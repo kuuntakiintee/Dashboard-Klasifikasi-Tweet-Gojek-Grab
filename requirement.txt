@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
+numpy
+streamlit-antd-components
+scikit-learn
+xgboost
+lightgbm
+joblib
+openpyxl
